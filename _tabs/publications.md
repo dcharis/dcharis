@@ -1,7 +1,7 @@
 ---
 title: Publications
 icon: fas fa-book
-order: 2 # Adjust this to control the menu order
+order: 1
 ---
 
 ## Book Chapters
